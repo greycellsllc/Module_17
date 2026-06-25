@@ -3,8 +3,8 @@ UC Berkeley AI and ML - Module 17 Assignment 17.1
 
 The following files are important to this assignment:
 1. prompt_III_Nesper.ipynb
-2. bank-additional.csv (included in .zip format)
-3. bank-additional-full.csv (included in .zip format)
+2. bank-additional.csv
+3. bank-additional-full.csv
 4. Assign 17-1 Results.csv
 
 Inside the Notebooks file prompt_III Nesper.ipynb , there is a sub-directory /content/ included in the file name for each datafile, for example for the bank-additional.csv file the name specified in the pd.read_csv statement is /content/bank-additional.csv. This may need to be modified if the file is relocated to a different directory. The best way to ensure that all cells are properly executed is to Run All cells. Some cells can be executed individually, but not all cells.
